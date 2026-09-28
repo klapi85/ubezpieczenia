@@ -12,15 +12,16 @@
 	$size: (
 		border-radius:		4px,
 		element-height:		2.75em,
-		element-margin:		2em
+		element-margin:		2em,
+		container-width:	60em
 	);
 
 // Font.
 	$font: (
 		family:				('Source Sans Pro', Helvetica, sans-serif),
 		family-fixed:		('Courier New', monospace),
-		weight:				300,
-		weight-bold:		400
+		weight:				500,
+		weight-bold:			500
 	);
 
 // Palette.
